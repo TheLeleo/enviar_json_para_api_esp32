@@ -7,8 +7,8 @@ WiFiMulti wifiMulti;
 
 // codigo do leleo
 
-const char *AP_SSID = "Inteli-welcome";             //Adicione aqui o nome da rede WiFi
-const char *AP_PWD = "";                  //Adicione aqui o nome da rede WiFi
+const char *AP_SSID = "";             //Adicione aqui o nome da rede WiFi
+const char *AP_PWD = "";              //Adicione aqui o nome da rede WiFi
 
 void postDataToServer(){
 
